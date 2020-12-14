@@ -1,0 +1,42 @@
+.new-feed {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+}
+
+.chats__new-feed {
+  position: absolute;
+  bottom: 18px;
+  left: 175px;
+}
+
+.find__new-feed {
+  position: absolute;
+  bottom: 18px;
+  left: 75px;
+}
+
+.ellipsis__new-feed {
+  position: absolute;
+  bottom: 28px;
+  left: 33px;
+}
+
+.friends__new-feed {
+  position: absolute;
+  bottom: 20px;
+  right: -5px;
+}
+
+.more__new-feed {
+  position: absolute;
+  bottom: 18px;
+  right: -8px;
+}
+
+.talk-drive__new-feed {
+  position: absolute;
+  top: -25px;
+  left: 58px;
+}
