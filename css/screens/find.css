@@ -1,5 +1,5 @@
 body {
-  height: 300vh;
+  height: 100vh;
 }
 
 .recommended-friends {
@@ -99,7 +99,6 @@ body {
   right: 10px;
   bottom: 10px;
   font-size: 12px;
-  z-index: 20;
 }
 
 .open-post__heart-count span {
